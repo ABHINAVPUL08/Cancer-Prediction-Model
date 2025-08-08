@@ -36,3 +36,12 @@ NumPy
 Scikit-learn
 
 Matplotlib / Seaborn (for visualization)
+
+✨ Optional Additions
+Add a sample dataset if it's not too large.
+
+Include charts or results screenshots in the README.
+
+Consider exporting the notebook as a .py file for CLI use.
+
+
