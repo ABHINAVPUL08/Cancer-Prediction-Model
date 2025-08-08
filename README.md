@@ -41,7 +41,9 @@ Matplotlib / Seaborn (for visualization)
 Add a sample dataset if it's not too large.
 
 Include charts or results screenshots in the README.
+<img width="550" height="367" alt="image" src="https://github.com/user-attachments/assets/1696a730-c8dc-48b8-a66a-2a3f0498965f" />
 
-Consider exporting the notebook as a .py file for CLI use.
+
+
 
 
